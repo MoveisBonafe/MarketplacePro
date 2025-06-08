@@ -5,22 +5,22 @@
 Your e-commerce platform is now fully prepared for GitHub Pages deployment with the following configuration:
 
 ### 📍 Repository Information
-- **Owner**: moveavelcontent
-- **Repository**: MarketplacePay
+- **Owner**: moveisbonafe
+- **Repository**: MarketplacePro
 - **GitHub Token**: Configured and ready
 - **Branch**: main
 - **Deployment Folder**: /docs
 
 ### 🔧 Configuration Complete
 - ✅ Static build generated for GitHub Pages
-- ✅ Asset paths configured for `/MarketplacePay/` base URL
+- ✅ Asset paths configured for `/MarketplacePro/` base URL
 - ✅ GitHub API integration with your token
 - ✅ `.nojekyll` file added to prevent Jekyll processing
 - ✅ Configuration file with repository details
 
-### 🎯 Live URL (after GitHub Pages activation)
+### 🎯 Live URL (GitHub Pages Active)
 ```
-https://moveavelcontent.github.io/MarketplacePay/
+https://moveisbonafe.github.io/MarketplacePro/
 ```
 
 ### 📋 Next Steps to Go Live
