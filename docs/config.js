@@ -1,8 +1,8 @@
 // GitHub configuration for static deployment
 window.GITHUB_CONFIG = {
   token: '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',
-  owner: 'USERNAME', // Replace with your GitHub username
-  repo: 'REPOSITORY_NAME', // Replace with your repository name
+  owner: 'moveavelcontent', // Your GitHub username from the URL
+  repo: 'MarketplacePay', // Your repository name from the URL
   branch: 'main'
 };
 
