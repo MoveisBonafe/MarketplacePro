@@ -87,10 +87,11 @@ Once live, the system will automatically create:
 ### 🛠️ Technical Details
 
 **Static Build Configuration**:
-- Base URL: `/MarketplacePay/`
+- Base URL: `/MarketplacePro/`
 - Asset optimization: Complete
 - GitHub API fallback: Configured
 - CORS handling: Ready
+- Latest Build: December 8, 2024 - Bundle: index-C05-osgw.js
 
 **Security Notes**:
 - GitHub token included for controlled user base
